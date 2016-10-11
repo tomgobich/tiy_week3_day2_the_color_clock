@@ -79,5 +79,6 @@ function formatTime(timeValue)
 function setBackgroundColor()
 {
 	overlay.style.backgroundColor = currentTime;
+	time.style.color = currentTime;
 }
 

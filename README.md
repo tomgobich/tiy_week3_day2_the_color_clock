@@ -1,10 +1,10 @@
-# TreeTees T-Shirt Shop
+# The Color Clock
 
-##### The Iron Yard - Week 3, Day 1
+##### The Iron Yard - Week 3, Day 2
 
-For this assignment we were to take the cart functionality from our previous Tailored T-Shirt Shop assignment and apply it to a full t-shirt shop. I created a fictitious t-shirt shop called TreeTees, and utilized parallax scrolling effects and slideup overlays to create a modern looking website.
+For this assignment we were to create a clock utilizing JavaScript. The clock shows the time as a hex value, and the background changes color to that hex value as the time changes every second. I also added a background video to add more detail to the background. 
 
-#### [View Live Preview](https://tomgobich.github.io/tiy_week3_day1_treetees_tshirt_shop/)
+#### [View Live Preview](https://tomgobich.github.io/tiy_week3_day2_the_color_clock/)
 
 ### Tech Used
 

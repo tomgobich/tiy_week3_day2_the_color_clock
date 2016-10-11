@@ -66,16 +66,18 @@ img {
 }
 
 .time-wrap {
-	background-color: rgba(white, .3);
+	background-color: rgba(white, .2);
 	background-image: 
 		radial-gradient(
-			transparent 60%,
-			rgba(#333, .3)
+			rgba(white, .2) 50%,
+			rgba(white, .3),
+			rgba(white, .6) 98%
 		);
 	border-radius: 15px;
+	border: 1px solid $color-background;
 	box-shadow: 
-		 1px  1px 3px rgba(white, .4),
-		-1px -1px 3px rgba(white, .4),
+		 1px  1px 3px rgba(gray, .05),
+		-1px -1px 3px rgba(gray, .05),
 		 0px  0px 5px #333;
 	position: absolute;
 	top: 50%;

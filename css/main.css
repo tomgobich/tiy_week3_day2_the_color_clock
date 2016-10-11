@@ -1,0 +1,31 @@
+* {
+  box-sizing: border-box; }
+
+html, body {
+  height: 100%;
+  width: 100%; }
+
+body {
+  font-family: 'Share Tech Mono', monospace;
+  background-color: #323133;
+  color: #F5F7FA; }
+
+p,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  line-height: 1.4em; }
+
+h1 {
+  font-size: 5em;
+  font-weight: bold;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%); }
+
+img {
+  max-width: 100%; }

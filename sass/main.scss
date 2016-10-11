@@ -1,0 +1,51 @@
+// --------------------------------------------------
+// Variables
+// --------------------------------------------------
+$color-background: rgba(#323133, 1);
+$color-content: #F5F7FA;
+
+
+
+// --------------------------------------------------
+// Global Styles
+// --------------------------------------------------
+* {
+    box-sizing: border-box;
+}
+
+html, body {
+	height: 100%;
+	width: 100%;
+}
+
+body {
+	font-family: 'Share Tech Mono', monospace;
+    background-color: $color-background;
+    color: $color-content;
+}
+
+p,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	line-height: 1.4em;
+}
+
+h1 {
+	font-size: 5em;
+	font-weight: bold;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
+
+img {
+	max-width: 100%;
+}
+
+
+
